@@ -1,9 +1,15 @@
+# portofolio template
+
 DEMO : https://fgprayogo.web.app/
 
-#Cara Install
+## Setup
 
-Clone repo, install, cd into folder and run:
-
+1. Clone repo
+2. Install dependency
+```
 npm install
+```
+3. Run App
+```
 npm start
-
+```
